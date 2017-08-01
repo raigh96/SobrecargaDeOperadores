@@ -1,0 +1,12 @@
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.csprojResolveAssemblyReference.cache
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe.config
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.pdb
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.exe
+c:\users\rai\documents\visual studio 2017\Projects\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.pdb
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe.config
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.exe
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\bin\Debug\SobrecargaDeOperadores.pdb
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.csprojResolveAssemblyReference.cache
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.exe
+C:\Users\Rai\Desktop\SobrecargaDeOperadores\SobrecargaDeOperadores\obj\Debug\SobrecargaDeOperadores.pdb
